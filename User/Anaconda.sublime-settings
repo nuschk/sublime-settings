@@ -1,0 +1,9 @@
+{
+    "anaconda_linter_mark_style": "none",
+    "anaconda_linter_underlines": true,
+
+
+    // skip errors and warnings (e.g. ["E303", E4", "W"])
+    "pep8_ignore": ["E501", "W292"]
+
+}

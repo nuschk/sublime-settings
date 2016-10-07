@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Babel",
+		"Djaneiro",
+		"Django",
+		"Dockerfile Syntax Highlighting",
+		"LESS",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Oceanic Next Color Scheme",
+		"orgmode",
+		"Package Control",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-json",
+		"Wrap Plus"
+	]
+}
